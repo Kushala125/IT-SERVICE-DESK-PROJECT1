@@ -86,6 +86,7 @@ How do different ticket priority levels contribute to each technician workload
 This chart breaks down each technician workload by ticket priority levels such as high, medium, and low. It helps evaluate whether critical issues are being handled appropriately and whether workload distribution across team members is balanced.
 
 Storytelling Trend Chart
+
 How can key workload events such as peak pressure and stable periods be highlighted to improve stakeholder understanding
 ![Storytelling Chart](images/chart7.png)
 
