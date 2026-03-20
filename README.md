@@ -48,14 +48,14 @@ This chart visualizes the number of tickets created over time to identify worklo
 
 Issue Distribution Pie Chart
 
-What proportion of tickets belongs to each issue category and which issues are most frequent
+What proportion of tickets belongs to each issue category and which issues are most frequent?
 
 ![Issue Distribution](images/chart2.png)
 
 This chart shows the proportion of tickets across different issue categories such as software, hardware, network, and access. It helps identify the most common types of issues faced by users, enabling teams to focus on recurring problems and improve preventive measures.
 Technician Performance Scatter Plot
 
-How do technicians compare in terms of workload and resolution speed and who are the high and low performers
+How do technicians compare in terms of workload and resolution speed and who are the high and low performers?
 
 ![Technician Performance](images/chart3.png)
 
@@ -63,7 +63,7 @@ This chart compares technicians based on two dimensions: number of tickets handl
 
 Rolling Average Trend
 
-What are the underlying long term trends in ticket volume after smoothing daily fluctuations
+What are the underlying long term trends in ticket volume after smoothing daily fluctuations?
 
 ![Rolling Average](images/chart4.png)
 
@@ -71,7 +71,7 @@ This chart applies a 7 day rolling average to smooth out short term fluctuations
 
 SLA Breach Severity Distribution
 
-How severe are SLA breaches and how far do tickets exceed the defined SLA limits
+How severe are SLA breaches and how far do tickets exceed the defined SLA limits?
 
 ![SLA Breach](images/chart5.png)
 
@@ -79,7 +79,7 @@ This chart shows how much tickets exceed their SLA limits in terms of time. Inst
 
 Priority Load Composition Stacked Bar Chart
 
-How do different ticket priority levels contribute to each technician workload
+How do different ticket priority levels contribute to each technician workload?
 
 ![Priority Load](images/chart6.png)
 
@@ -87,7 +87,7 @@ This chart breaks down each technician workload by ticket priority levels such a
 
 Storytelling Trend Chart
 
-How can key workload events such as peak pressure and stable periods be highlighted to improve stakeholder understanding
+How can key workload events such as peak pressure and stable periods be highlighted to improve stakeholder understanding?
 ![Storytelling Chart](images/chart7.png)
 
 This chart enhances the time series analysis by adding annotations and visual markers to highlight key events such as peak workload periods and stable phases. It improves communication by making insights more intuitive and easier for stakeholders to understand without deep analysis.
