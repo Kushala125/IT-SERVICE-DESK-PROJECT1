@@ -44,24 +44,52 @@ Time Series Trend Line Chart
 How does ticket volume change over time and when do peak workload periods occur?
 ![Time Series Trend](images/chart1.png)
 
+This chart visualizes the number of tickets created over time to identify workload patterns. It highlights fluctuations in daily ticket volume, making it easy to detect peak workload days and periods of low activity. These insights help in planning resource allocation and ensuring adequate staffing during high demand periods.
+
 Issue Distribution Pie Chart
+
 What proportion of tickets belongs to each issue category and which issues are most frequent
+
 ![Issue Distribution](images/chart2.png)
+
+This chart shows the proportion of tickets across different issue categories such as software, hardware, network, and access. It helps identify the most common types of issues faced by users, enabling teams to focus on recurring problems and improve preventive measures.
 Technician Performance Scatter Plot
+
 How do technicians compare in terms of workload and resolution speed and who are the high and low performers
+
 ![Technician Performance](images/chart3.png)
+
+This chart compares technicians based on two dimensions: number of tickets handled and average resolution time. It helps identify high performers who handle more tickets efficiently, as well as those who may require support or training. The visualization makes performance differences easy to interpret.
+
 Rolling Average Trend
+
 What are the underlying long term trends in ticket volume after smoothing daily fluctuations
+
 ![Rolling Average](images/chart4.png)
+
+This chart applies a 7 day rolling average to smooth out short term fluctuations in ticket volume. By reducing noise in the data, it reveals the underlying long term trend, helping stakeholders understand whether workload is increasing, decreasing, or stable over time
+
 SLA Breach Severity Distribution
+
 How severe are SLA breaches and how far do tickets exceed the defined SLA limits
+
 ![SLA Breach](images/chart5.png)
+
+This chart shows how much tickets exceed their SLA limits in terms of time. Instead of just counting breaches, it highlights their severity, helping teams understand whether delays are minor or significant. This insight is critical for improving service quality and response times.
+
 Priority Load Composition Stacked Bar Chart
+
 How do different ticket priority levels contribute to each technician workload
+
 ![Priority Load](images/chart6.png)
+
+This chart breaks down each technician workload by ticket priority levels such as high, medium, and low. It helps evaluate whether critical issues are being handled appropriately and whether workload distribution across team members is balanced.
+
 Storytelling Trend Chart
 How can key workload events such as peak pressure and stable periods be highlighted to improve stakeholder understanding
 ![Storytelling Chart](images/chart7.png)
+
+This chart enhances the time series analysis by adding annotations and visual markers to highlight key events such as peak workload periods and stable phases. It improves communication by making insights more intuitive and easier for stakeholders to understand without deep analysis.
 
 THE POWER BI INTELLIGENCE SUITE
 
@@ -79,6 +107,7 @@ The SLA Breach Severity Distribution is a unique histogram that shows the freque
 
 The Priority Load Composition uses stacked bar charts to show the mix of High Medium and Low priority tickets for each technician. This ensures that work is being distributed fairly across the team.
 ![Power BI Dashboard](images/powerbi.png)
+
 BUSINESS INSIGHTS AND STRATEGIC IMPACT
 
 The analysis revealed a departmental SLA compliance rate of sixty eight percent. While the team is highly productive this metric indicates a critical gap in service delivery for nearly one third of all requests. This insight provides the data backed justification needed to either increase headcount or implement AI driven ticket triaging.
