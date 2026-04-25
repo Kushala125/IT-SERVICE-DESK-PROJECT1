@@ -166,7 +166,7 @@ The frontend translates all Python-engineered metrics into an **interactive exec
 
 > **How does ticket volume change over time, and when do peak workload periods occur?**
 
-![Time Series Trend](images/time_series_trend.png)
+![Time Series Trend](images/chart1.png)
 
 This line chart visualizes tickets created over time, highlighting daily volume fluctuations to detect **peak workload days** and low-activity periods. These insights directly inform staffing decisions and resource allocation during high-demand windows.
 
@@ -176,7 +176,7 @@ This line chart visualizes tickets created over time, highlighting daily volume 
 
 > **What proportion of tickets belongs to each issue category, and which issues are most frequent?**
 
-![Issue Distribution](images/issue_distribution.png)
+![Issue Distribution](images/chart2.png)
 
 This chart maps the proportional breakdown across issue categories — **Software, Hardware, Network, and Access**. Hardware and Software issues dominate the workload, suggesting that targeted automation or self-service portals in these areas would yield the highest ROI.
 
@@ -186,7 +186,7 @@ This chart maps the proportional breakdown across issue categories — **Softwar
 
 > **How do technicians compare in workload vs. resolution speed — and who are the top and low performers?**
 
-![Technician Performance](images/technician_performance.png)
+![Technician Performance](images/chart3.png)
 
 The **centerpiece of the dashboard**. This quadrant scatter plot segments every team member into one of four strategic groups:
 
@@ -205,7 +205,7 @@ The **centerpiece of the dashboard**. This quadrant scatter plot segments every 
 
 > **What are the underlying long-term trends in ticket volume after smoothing daily noise?**
 
-![Rolling Average](images/rolling_average.png)
+![Rolling Average](images/chart4.png)
 
 Using the 7-day rolling average engineered in Python, this chart reveals the **true long-term trajectory** of the Service Desk — making it clear whether the department is becoming more efficient or whether workload is outpacing resources.
 
@@ -215,7 +215,7 @@ Using the 7-day rolling average engineered in Python, this chart reveals the **t
 
 > **How severe are SLA breaches, and how far do tickets exceed their defined limits?**
 
-![SLA Breach](images/sla_breach.png)
+![SLA Breach](images/chart5%20.png)
 
 A unique histogram showing the **frequency of late tickets grouped by days overdue**. Rather than simply counting breaches, this focuses management attention on the long tail of severely delayed tickets — those posing the highest risk to business continuity.
 
@@ -225,7 +225,7 @@ A unique histogram showing the **frequency of late tickets grouped by days overd
 
 > **How do different ticket priority levels contribute to each technician's workload?**
 
-![Priority Load](images/priority_load.png)
+![Priority Load](images/chart6.png)
 
 This stacked bar chart breaks down each technician's workload by **High / Medium / Low priority** tickets. It ensures work is distributed fairly and that senior technicians are focused on the most critical business issues.
 
@@ -235,7 +235,7 @@ This stacked bar chart breaks down each technician's workload by **High / Medium
 
 > **How can key workload events be highlighted to improve stakeholder communication?**
 
-![Storytelling Chart](images/storytelling_chart.png)
+![Storytelling Chart](images/chart7.png)
 
 This enhanced time series chart adds **annotations and visual markers** to highlight peak workload periods, stable phases, and inflection points — making insights immediately intuitive for non-technical stakeholders.
 
@@ -243,7 +243,7 @@ This enhanced time series chart adds **annotations and visual markers** to highl
 
 ### 🖥️ Full Power BI Dashboard
 
-![Power BI Dashboard](images/dashboard.png)
+![Power BI Dashboard](images/powerbi.png)
 
 ---
 
