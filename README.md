@@ -1,25 +1,30 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,50:1A5276,100:00D4FF&height=220&section=header&text=IT%20Service%20Desk&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Strategic%20Analytics%20%26%20Operational%20Excellence&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=36&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=900&lines=IT+Service+Desk+Strategic+Analytics;%26+Operational+Excellence" alt="Typing SVG" />
-
-<br/>
-
-![Tickets Analyzed](https://img.shields.io/badge/Tickets%20Analyzed-100%2B-2E86C1?style=for-the-badge&logo=databricks&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Data%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Intelligence%20Suite-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-Temporal%20Engineering-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-SLA%20Automation-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Python+Engineering+%E2%86%92+Power+BI+Dashboard;Transforming+raw+ticket+logs+into+business+intelligence" alt="Typing SVG"/>
+</p>
 
 <br/>
 
-> **A complete end-to-end analytical framework transforming raw IT ticket data into high-level business intelligence.**  
-> Python data engineering → Power BI executive dashboard → Strategic operational insights.
+<p align="center">
+  <img src="https://img.shields.io/badge/Tickets%20Analyzed-100%2B-00D4FF?style=for-the-badge&logo=databricks&logoColor=white&labelColor=050d1a"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SLA%20Compliance-68%25-2E86C1?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=050d1a"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Visualizations-7-5DADE2?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=050d1a"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python%20Phases-4-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=050d1a"/>
+</p>
+
+<br/>
 
 ---
 
-</div>
-
 ## 🖥️ Executive Summary
+
+<img align="right" src="https://capsule-render.vercel.app/api?type=rect&color=0:1A5276,100:00D4FF&height=2&width=300&section=header" width="300"/>
 
 In the modern enterprise, the **IT Service Desk** serves as the primary interface between technology and human productivity. This project delivers a complete analytical framework that transforms raw ticket logs into actionable business intelligence.
 
@@ -30,14 +35,36 @@ By combining the **deep processing power of Python** with the **interactive stor
 | 🎯 Objective | 🔬 Methodology | 📈 Outcome |
 |:---:|:---:|:---:|
 | Identify SLA breach patterns | Python temporal engineering + SLA logic | 68% compliance baseline with gap analysis |
-| Map technician performance | Scatter quadrant analysis | Hero / Overloaded / Underused / Training segmentation |
+| Map technician performance | Scatter quadrant analysis | Hero / Overloaded / Underused / Training |
 | Forecast workload trends | 7-day rolling average smoothing | Long-term capacity planning intelligence |
 
 </div>
 
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header&reversal=false" width="100%"/>
+</p>
+
 ---
 
 ## 🛠️ Technical Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
 <div align="center">
 
@@ -52,28 +79,34 @@ By combining the **deep processing power of Python** with the **interactive stor
 
 </div>
 
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+</p>
+
 ---
 
 ## 🔬 Problem Statement
 
-> **How can IT support ticket data be analyzed to uncover workload trends, identify performance patterns, and drive operational efficiency?**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=2000&color=00D4FF&center=true&vCenter=true&width=800&lines=How+can+IT+ticket+data+uncover+workload+trends%2C+performance+patterns%2C+and+drive+efficiency%3F" alt="Problem Statement"/>
+</p>
 
 ---
 
 ## ⚙️ Phase 1 — Python Data Engineering Foundation
 
-The intelligence of this project begins in the Python environment, where raw and often inconsistent logs are transformed into a structured analytical dataset across **four critical engineering phases**.
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=500&color=5DADE2&center=true&vCenter=true&width=700&lines=Phase+01%3A+Temporal+Engineering+%E2%86%92+Phase+02%3A+SLA+Automation+%E2%86%92+Phase+03%3A+Smoothing+%E2%86%92+Phase+04%3A+Severity" alt="Phases"/>
+</p>
 
 <details open>
-<summary><b>🕐 1. Advanced Temporal Engineering</b></summary>
+<summary><b>🕐 Phase 1 — Advanced Temporal Engineering</b></summary>
 
 <br/>
 
-Raw date strings were converted into high-precision `datetime` objects using Pandas. This enabled calculation of exact **Resolution Days** — the primary metric for measuring service speed.
-
-Data integrity was enforced by validating that every resolution timestamp occurred **after** its creation timestamp, filtering out any chronological errors in the raw logs.
+Raw date strings converted into high-precision `datetime` objects. **Resolution Days** calculated as the primary speed metric. Chronological integrity enforced by validating every resolved timestamp against its creation timestamp.
 
 ```python
 import pandas as pd
@@ -84,7 +117,7 @@ df['resolved_at'] = pd.to_datetime(df['resolved_at'])
 # Validate chronological integrity
 df = df[df['resolved_at'] > df['created_at']]
 
-# Calculate resolution time
+# Calculate resolution time in days
 df['resolution_days'] = (df['resolved_at'] - df['created_at']).dt.total_seconds() / 86400
 ```
 
@@ -93,11 +126,11 @@ df['resolution_days'] = (df['resolved_at'] - df['created_at']).dt.total_seconds(
 ---
 
 <details open>
-<summary><b>⚖️ 2. Custom Vectorized SLA Automation Logic</b></summary>
+<summary><b>⚖️ Phase 2 — Custom Vectorized SLA Automation Logic</b></summary>
 
 <br/>
 
-A **priority-weighted SLA system** was engineered using NumPy logic — going far beyond standard reporting. Each priority tier was evaluated against its own time window:
+A **priority-weighted SLA system** engineered using NumPy — going far beyond standard reporting:
 
 | Priority | SLA Window | Threshold |
 |:---|:---:|:---:|
@@ -105,15 +138,13 @@ A **priority-weighted SLA system** was engineered using NumPy logic — going fa
 | 🟡 Medium | Standard window | 3 days |
 | 🟢 Low | Broader window | 5 days |
 
-This created a **binary pass/fail metric** per record, enabling the first accurate calculation of the departmental SLA compliance rate.
-
 ```python
 import numpy as np
 
 conditions = [
-    (df['priority'] == 'High') & (df['resolution_days'] <= 1),
+    (df['priority'] == 'High')   & (df['resolution_days'] <= 1),
     (df['priority'] == 'Medium') & (df['resolution_days'] <= 3),
-    (df['priority'] == 'Low') & (df['resolution_days'] <= 5),
+    (df['priority'] == 'Low')    & (df['resolution_days'] <= 5),
 ]
 df['sla_met'] = np.select(conditions, [True, True, True], default=False)
 ```
@@ -123,11 +154,11 @@ df['sla_met'] = np.select(conditions, [True, True, True], default=False)
 ---
 
 <details open>
-<summary><b>📉 3. Advanced Statistical Smoothing</b></summary>
+<summary><b>📉 Phase 3 — Advanced Statistical Smoothing</b></summary>
 
 <br/>
 
-To account for daily volatility of IT requests, a **7-day rolling average** of ticket volume was calculated. This technique — widely used at top-tier technology firms — helps leadership distinguish between a random spike and a genuine shift in organizational demand.
+A **7-day rolling average** calculated to separate random spikes from genuine shifts in organizational demand:
 
 ```python
 daily_volume = df.groupby('date_created').size().reset_index(name='ticket_count')
@@ -139,26 +170,33 @@ daily_volume['rolling_avg_7d'] = daily_volume['ticket_count'].rolling(window=7).
 ---
 
 <details open>
-<summary><b>🚨 4. SLA Breach Severity Logic</b></summary>
+<summary><b>🚨 Phase 4 — SLA Breach Severity Logic</b></summary>
 
 <br/>
 
-Knowing that a ticket failed SLA is not enough — we must know **the degree of failure**. The delta between the target resolution time and actual resolution time was calculated to create a severity distribution identifying the most critical process failures.
+Not just *whether* a ticket failed SLA — but **how badly**. A severity distribution identifies the most critical process failures:
 
 ```python
 sla_targets = {'High': 1, 'Medium': 3, 'Low': 5}
-df['sla_target'] = df['priority'].map(sla_targets)
-df['breach_severity_days'] = df['resolution_days'] - df['sla_target']
-df['breach_severity_days'] = df['breach_severity_days'].clip(lower=0)
+df['sla_target']         = df['priority'].map(sla_targets)
+df['breach_severity_days'] = (df['resolution_days'] - df['sla_target']).clip(lower=0)
 ```
 
 </details>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+</p>
 
 ---
 
 ## 📊 Phase 2 — Power BI Intelligence Suite
 
-The frontend translates all Python-engineered metrics into an **interactive executive dashboard** through seven targeted visualization strategies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=7+Targeted+Visualizations+%E2%86%92+One+Executive+Dashboard" alt="Power BI"/>
+</p>
 
 ---
 
@@ -166,36 +204,36 @@ The frontend translates all Python-engineered metrics into an **interactive exec
 
 > **How does ticket volume change over time, and when do peak workload periods occur?**
 
-![Time Series Trend](images/chart1.png)
+![Chart 1](images/chart1.png)
 
-This line chart visualizes tickets created over time, highlighting daily volume fluctuations to detect **peak workload days** and low-activity periods. These insights directly inform staffing decisions and resource allocation during high-demand windows.
+This line chart highlights daily volume fluctuations to detect **peak workload days** and low-activity periods — driving smarter staffing and resource allocation decisions.
 
 ---
 
 ### 🥧 Visualization 2 — Issue Distribution Pie Chart
 
-> **What proportion of tickets belongs to each issue category, and which issues are most frequent?**
+> **What proportion of tickets belongs to each issue category?**
 
-![Issue Distribution](images/chart2.png)
+![Chart 2](images/chart2.png)
 
-This chart maps the proportional breakdown across issue categories — **Software, Hardware, Network, and Access**. Hardware and Software issues dominate the workload, suggesting that targeted automation or self-service portals in these areas would yield the highest ROI.
+Hardware and Software issues **dominate the workload** — suggesting targeted automation or self-service portals in these areas would yield the highest ROI.
 
 ---
 
 ### 🎯 Visualization 3 — Technician Performance Scatter Plot
 
-> **How do technicians compare in workload vs. resolution speed — and who are the top and low performers?**
+> **Who are the top and low performers across workload and resolution speed?**
 
-![Technician Performance](images/chart3.png)
+![Chart 3](images/chart3.png)
 
-The **centerpiece of the dashboard**. This quadrant scatter plot segments every team member into one of four strategic groups:
+The **centerpiece of the dashboard** — a quadrant scatter plot that segments every team member:
 
 <div align="center">
 
 | 🦸 Heroes | 🔥 Overloaded | 💤 Underused | 📚 Training |
 |:---:|:---:|:---:|:---:|
 | High volume + fast speed | High volume + slowing speed | Low volume = hidden capacity | Low speed = needs upskilling |
-| Reward & retain | Burnout risk — intervene now | Redistribute work here | Target coaching investment |
+| **Reward & retain** | **Burnout risk — intervene** | **Redistribute work here** | **Target coaching** |
 
 </div>
 
@@ -203,47 +241,53 @@ The **centerpiece of the dashboard**. This quadrant scatter plot segments every 
 
 ### 📉 Visualization 4 — Rolling Average Trend
 
-> **What are the underlying long-term trends in ticket volume after smoothing daily noise?**
+> **What are the true long-term trends in ticket volume after smoothing daily noise?**
 
-![Rolling Average](images/chart4.png)
+![Chart 4](images/chart4.png)
 
-Using the 7-day rolling average engineered in Python, this chart reveals the **true long-term trajectory** of the Service Desk — making it clear whether the department is becoming more efficient or whether workload is outpacing resources.
+The 7-day rolling average reveals the **true trajectory** of the Service Desk — making it immediately clear whether efficiency is improving or workload is outpacing resources.
 
 ---
 
 ### ⚠️ Visualization 5 — SLA Breach Severity Distribution
 
-> **How severe are SLA breaches, and how far do tickets exceed their defined limits?**
+> **How severe are SLA breaches, and how far do tickets exceed defined limits?**
 
 ![SLA Breach](images/chart5%20.png)
 
-A unique histogram showing the **frequency of late tickets grouped by days overdue**. Rather than simply counting breaches, this focuses management attention on the long tail of severely delayed tickets — those posing the highest risk to business continuity.
+A unique histogram showing **frequency of late tickets grouped by days overdue** — focusing management on the long tail of severely delayed tickets posing the highest business risk.
 
 ---
 
-### 📊 Visualization 6 — Priority Load Composition (Stacked Bar)
+### 📊 Visualization 6 — Priority Load Composition
 
 > **How do different ticket priority levels contribute to each technician's workload?**
 
-![Priority Load](images/chart6.png)
+![Chart 6](images/chart6.png)
 
-This stacked bar chart breaks down each technician's workload by **High / Medium / Low priority** tickets. It ensures work is distributed fairly and that senior technicians are focused on the most critical business issues.
+This stacked bar ensures senior technicians are focused on **critical business issues** and that workload distribution remains fair and balanced across the team.
 
 ---
 
 ### 📖 Visualization 7 — Storytelling Trend Chart
 
-> **How can key workload events be highlighted to improve stakeholder communication?**
+> **How can key events be highlighted to improve stakeholder communication?**
 
-![Storytelling Chart](images/chart7.png)
+![Chart 7](images/chart7.png)
 
-This enhanced time series chart adds **annotations and visual markers** to highlight peak workload periods, stable phases, and inflection points — making insights immediately intuitive for non-technical stakeholders.
+Annotations and visual markers highlight **peak periods, stable phases, and inflection points** — making insights immediately intuitive for non-technical stakeholders without deep analysis.
 
 ---
 
-### 🖥️ Full Power BI Dashboard
+### 🖥️ Full Power BI Executive Dashboard
 
 ![Power BI Dashboard](images/powerbi.png)
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+</p>
 
 ---
 
@@ -251,15 +295,13 @@ This enhanced time series chart adds **annotations and visual markers** to highl
 
 <div align="center">
 
-### 📌 SLA Compliance Rate — 68%
+### 📌 SLA Compliance Rate
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=42&duration=2000&pause=99999&color=00D4FF&center=true&vCenter=true&width=300&lines=68%25" alt="68%"/>
 
 </div>
 
-> The analysis revealed a departmental SLA compliance rate of **68%**. While the team is highly productive, this indicates a critical service delivery gap affecting nearly **one-third of all requests**.
-
-This data-backed finding provides direct justification to either:
-- **Increase headcount** during high-pressure periods, or
-- **Implement AI-driven ticket triaging** to reduce first-response times
+The analysis revealed a departmental SLA compliance rate of **68%**. While the team is highly productive, this indicates a critical service delivery gap affecting nearly **one-third of all requests** — providing data-backed justification to either increase headcount or implement AI-driven ticket triaging.
 
 ---
 
@@ -290,6 +332,12 @@ This data-backed finding provides direct justification to either:
 | Overloaded technician quadrant identified | Burnout risk — proactive redistribution required |
 | Weekly cycle confirmed in rolling average | Predictable demand → smarter pre-scheduled staffing |
 
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+</p>
+
 ---
 
 ## 🧗 Challenges & Professional Growth
@@ -299,11 +347,17 @@ This data-backed finding provides direct justification to either:
 | Challenge | Solution Applied |
 |:---|:---|
 | 🌐 Data quality across time zones and formats | Robust Python cleaning pipeline with datetime validation |
-| 📋 Balancing technical depth with executive readability | High-level KPIs on dashboard + deep-dive filters for granular views |
+| 📋 Balancing technical depth with executive readability | High-level KPIs on dashboard + deep-dive interactive filters |
 | 📐 SLA thresholds varying by priority tier | Custom vectorized NumPy conditions per priority level |
 | 📊 Daily volatility obscuring true trends | 7-day rolling average smoothing applied pre-visualization |
 
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+</p>
 
 ---
 
@@ -321,7 +375,7 @@ IT-SERVICE-DESK-PROJECT1/
 ├── 📄 docs/
 │   └── guide.docx               # Step-by-step Power BI implementation guide
 │
-├── 🖼️ images/                   # All chart exports & dashboard screenshots
+├── 🖼️ images/                   # chart1–7.png + powerbi.png
 │
 ├── 📓 notebooks/                # Jupyter notebooks for Python EDA & engineering
 │
@@ -332,12 +386,9 @@ IT-SERVICE-DESK-PROJECT1/
 
 ## 📈 Strategic Conclusion
 
-<div align="center">
-
-> *"This project does more than report on the past —*  
-> *it provides the foresight needed to manage a high-performing IT team."*
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&width=750&height=70&lines=More+than+reporting+the+past+%E2%80%94;providing+the+foresight+to+lead+a+high-performing+IT+team." alt="Conclusion"/>
+</p>
 
 By integrating the **rigorous engineering of Python** with the **visual clarity of Power BI**, this project transforms technical logs into a genuine strategic asset:
 
@@ -351,14 +402,18 @@ By integrating the **rigorous engineering of Python** with the **visual clarity 
 
 The result is a more **resilient**, more **efficient**, and more **transparent** IT Service Desk — where technology supports the business rather than bottlenecking it.
 
----
+<br/>
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:1A5276,100:050d1a&height=140&section=footer&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
 
-**Built with 🖥️ data engineering, 📊 visual intelligence, and ⚙️ operational strategy**
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Kushala125/IT-SERVICE-DESK-PROJECT1?color=2E86C1&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/Kushala125/IT-SERVICE-DESK-PROJECT1?color=2E86C1&style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/Kushala125/IT-SERVICE-DESK-PROJECT1?color=2E86C1&style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20with-Python%20%7C%20Power%20BI%20%7C%20Pandas%20%7C%20NumPy-2E86C1?style=flat-square&labelColor=050d1a"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/repo-size/Kushala125/IT-SERVICE-DESK-PROJECT1?color=00D4FF&style=flat-square&labelColor=050d1a"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/last-commit/Kushala125/IT-SERVICE-DESK-PROJECT1?color=2E86C1&style=flat-square&labelColor=050d1a"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Kushala125/IT-SERVICE-DESK-PROJECT1?color=00D4FF&style=flat-square&labelColor=050d1a"/>
+</p>
